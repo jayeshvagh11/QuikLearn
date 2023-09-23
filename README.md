@@ -1,11 +1,3 @@
-QuikLearn 
-Leader :- Jayesh Vagh (21BCS2321)
-Member 1 :- Aditya Mishra (21BCS2167)
-Member 2 :- Daksh Yadav (21BCS2200)
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
