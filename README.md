@@ -38,9 +38,23 @@ git clone https://github.com/your-username/StudentShuttle.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd StudentShuttle
+cd QuikLearn
 ```
-3. Open the project in a web browser by opening the index.html file.
+3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the project:
+```bash
+npm install
+```
+
+3.1. In case of issues shown after the npm install, run the below to automatically fix the issues:
+```bash
+npm audit fix
+```
+   
+3. Open the terminal of your code editor and give command to start the development server
+```bash
+npm start
+```
+   
 ## Usage
 1. Open the website by opening the index.html file in a web browser.
 2. Navigate through the website using the navigation menu at the top.
