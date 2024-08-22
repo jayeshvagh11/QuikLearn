@@ -1,7 +1,3 @@
-# Group Details
-* Jayesh Vagh - 21BCS2321
-* Aditya Mohan Mishra - 21BCS2167
-* Daksh Yadav - 21BCS2200
 
 
 # QuikLearn
